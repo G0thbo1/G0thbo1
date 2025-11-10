@@ -29,17 +29,8 @@ I enjoy crafting front-end experiences, optimizing back-end logic, and exploring
 
 ---
 
-## 📊 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react)
-
----
-
 ## 🌍 Connect With Me
-[![Notion](https://img.shields.io/badge/Notion%20Workspace-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-horpas/)
 
 ---
 
